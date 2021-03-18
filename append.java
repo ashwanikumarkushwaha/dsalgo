@@ -1,3 +1,4 @@
+//appending an element into a java array
 import java.util.*;
 public class append
 {
